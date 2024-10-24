@@ -11,6 +11,7 @@ def print_hi(name):
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    print_hi('hi manju')
+    name='manju'
+    print_hi(f'hi manju:{name}')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
